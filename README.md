@@ -81,19 +81,13 @@ This example will send you a private message when the bot has connected to serve
 	]
 }
 ```
-##TODO
-* Save game & player data to MongoDB for all time top scores & other statistics.
-* Config options for rule variations, such as voting the best instead of card czar choosing the winner.
-* The haiku round.
-* Allow players to change one card per round (make it an option in config?)
 
-##Contribute
-All contributions are welcome in any form, be it pull requests for new features and bug fixes or issue reports or anything else.
 
-It is recommended to use the **develop** branch as a starting point for new features.
+##Changes
+This is a fork of [teeli/irc-cah](https://github.com/teeli/irc-cah).
+- Modified config for use with my IRC server, Zimbeardo IRC.
+- [not added yet] A help command to list all commands.
 
-##Thanks
-Special thanks to everyone on the ***super awesome secret IRC channel*** that have helped me test this and given feedback during development.
 
 ##License
 Cards Against Humanity IRC bot and its source code is licensed under a [Creative Commons BY-NC-SA 2.0 license](http://creativecommons.org/licenses/by-nc-sa/2.0/).
